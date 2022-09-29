@@ -1,5 +1,6 @@
     body {
         margin: auto ;
+        width: 1200px;
     }
     #section_header_2_dark > div > div > div > nav > div > div.navbar-header > button {
         display: none;
@@ -86,4 +87,63 @@
     }
     #hidden_pix_1 {
         display: none;
+    }
+    #hidden_pix_6{
+        display: none;
+    }
+    #section_university_5 .pix_builder_bg .container .sixteen{
+        overflow: auto;
+        margin-top: 20px   ;
+    }
+    #section_university_5 .pix_builder_bg .container .sixteen .ten{
+        width: 60%;
+        float: left;
+    }
+    #section_university_5 .pix_builder_bg .container .sixteen .six {
+        width: 40%;
+        float: right;
+    }
+    #section_university_5 .pix_builder_bg .container .sixteen .six .substyle {
+        width: 450px;
+        height: 520px;
+        background: lightgray;
+        text-align: center;
+        line-height: 20px;
+    }
+    #section_university_5 .pix_builder_bg .container .sixteen .six .substyle input {
+        width: 400px;
+        height: 50px;
+        margin: 10px 0px;
+        border: 0px;
+        padding: 0px;
+        border-radius: 0px;
+    }
+    #countries      {
+        width: 400px;
+        height: 50px;
+        margin: 10px 0px;
+        border: 0px;
+        padding: 0px;
+    }
+    #submit_btn_6{
+        width: 400px;
+        height: 50px;
+        margin: 10px 0px;
+        border: 0px;
+        padding: 0px;
+        background: #7CC576;
+        border-radius: 5px;
+    }
+
+    #section_university_5 > div > div > div > div.six.columns.omega > div > div.title-style > span > span {
+        line-height: 100px;
+        margin-right: 39%;
+        font-size: 44px;
+        margin-top: 64px;
+    }
+
+    #section_university_5 > div > div > div > div.six.columns.omega > div > div.text-style > span > span {
+        line-height: 0px;
+        margin-right: 30%;
+        color: #7c7c7c;
     }
