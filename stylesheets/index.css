@@ -104,14 +104,14 @@
         float: right;
     }
     #section_university_5 .pix_builder_bg .container .sixteen .six .substyle {
-        width: 450px;
+        width: 350px;
         height: 520px;
         background: lightgray;
         text-align: center;
         line-height: 20px;
     }
     #section_university_5 .pix_builder_bg .container .sixteen .six .substyle input {
-        width: 400px;
+        width: 300px;
         height: 50px;
         margin: 10px 0px;
         border: 0px;
@@ -119,14 +119,14 @@
         border-radius: 0px;
     }
     #countries      {
-        width: 400px;
+        width: 300px;
         height: 50px;
         margin: 10px 0px;
         border: 0px;
         padding: 0px;
     }
     #submit_btn_6{
-        width: 400px;
+        width: 300px;
         height: 50px;
         margin: 10px 0px;
         border: 0px;
@@ -137,13 +137,45 @@
 
     #section_university_5 > div > div > div > div.six.columns.omega > div > div.title-style > span > span {
         line-height: 100px;
-        margin-right: 39%;
+        margin-right: 20%;
         font-size: 44px;
         margin-top: 64px;
     }
 
     #section_university_5 > div > div > div > div.six.columns.omega > div > div.text-style > span > span {
         line-height: 0px;
-        margin-right: 30%;
+        margin-right: 10%;
         color: #7c7c7c;
     }
+    #section_ecourse_7 .container .sixteen{
+        width: 1200px;
+        height: 50px;
+        background: #7c7c7c;
+        background: #adabab;
+    }
+    #section_ecourse_7 .container .sixteen  .seven {
+        width: 50%;
+        float: left;
+        margin: 10px 0px;
+    }
+    #section_ecourse_7 .container .sixteen  .nine .socbuttons {
+        width: 50%;
+        float: right;
+
+    }
+    #section_ecourse_7 .container .sixteen  .nine .socbuttons span {
+        width: auto;
+        float: left;
+        margin: 5px 0px;
+    }
+    #section_ecourse_7 .container .sixteen  .nine .socbuttons  .soc_icons ul  {
+        width: fit-content;
+        float: right;
+        padding: 0px;
+        margin: 10px 55% 10px 0px;
+
+    }
+    #section_ecourse_7 .container .sixteen  .nine .socbuttons  .soc_icons ul li {
+        display: inline-block;
+    }
+
