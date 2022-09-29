@@ -1,181 +1,243 @@
-    body {
-        margin: auto ;
-        width: 1200px;
-    }
-    #section_header_2_dark > div > div > div > nav > div > div.navbar-header > button {
-        display: none;
-    }
-    #section_header_2_dark > div > div > div > nav > div {
-        width: 1200px;
-        height: 100px;
-        background: #333333;
-    }
-    #section_header_2_dark > div > div > div > nav > div > div.navbar-header  {
-        width: 20%;
-        float: left;
-        margin-left: 200px;
-        margin-top: 25px;
-    }
-    #navbar-collapse-02{
-        width: 50%;
-        float: right;
-    }
-    #navbar-collapse-02 > ul li {
-        list-style: none    ;
-        display: inline;
-        color: yellow;
-        margin-right: 20px  ;
-    }
-    #navbar-collapse-02 > ul li a{
-        text-decoration: none;
-        color: white;
+body {
+    margin: auto;
+    width: 1200px;
+}
 
-    }
-    #section_pix_4 .has-video {
-        width: 1200px   ;
-        height: 675px   ;
-        position: relative;
-        text-align: center;
-    }
-    .bgvid {
-        width: 1200px;
-        height: 675px;
-        filter: brightness( 50%);
+#section_header_2_dark > div > div > div > nav > div > div.navbar-header > button {
+    display: none;
+}
 
-    }
-    #section_pix_4 .has-video .clearfix .container .context_style{
-        position: absolute;
-        display: inline-block;
-        top: 30%;
-        left: 27%;
-        color: white;
-        line-height: 80px;
-    }
-    #section_pix_4 > div > div.section_wrapper.clearfix > div > div > div.subtitle_style {
-        line-height: 20px;
-        width: 490px;
-    }
-    #email  {
-        width: 300px;
-        height: 35px;
-        border-radius: 5px;
-        border: 0px;
-        padding: 0px;
-    }
-    #subscribe_btn_1{
-        width: 150px;
-        height: 35px;
-        background: orange;
-        color: white;
-        font-weight: bold;
-        border: 0px;
-        border-radius: 5px;
+#section_header_2_dark > div > div > div > nav > div {
+    width: 1200px;
+    height: 100px;
+    background: #333333;
+}
 
-    }
-    #section_pix_4 > div > div.section_wrapper.clearfix > div > div > div.note_st {
-        line-height: 30px;
-        font-size: 12px ;
-    }
+#section_header_2_dark > div > div > div > nav > div > div.navbar-header {
+    width: 20%;
+    float: left;
+    margin-left: 200px;
+    margin-top: 25px;
+}
 
-    #section_pix_4 > div > div.section_wrapper.clearfix > div > div > div.title_style > span > span {
-        color: white;
-        font-size: 35px ;
-        font-weight: 800;
-    }
-    #section_pix_4 > div > div.section_wrapper.clearfix > div > div > div.title_style > span {
-        margin-bottom: 10px;
-    }
-    #hidden_pix_1 {
-        display: none;
-    }
-    #hidden_pix_6{
-        display: none;
-    }
-    #section_university_5 .pix_builder_bg .container .sixteen{
-        overflow: auto;
-        margin-top: 20px   ;
-    }
-    #section_university_5 .pix_builder_bg .container .sixteen .ten{
-        width: 60%;
-        float: left;
-    }
-    #section_university_5 .pix_builder_bg .container .sixteen .six {
-        width: 40%;
-        float: right;
-    }
-    #section_university_5 .pix_builder_bg .container .sixteen .six .substyle {
-        width: 350px;
-        height: 520px;
-        background: lightgray;
-        text-align: center;
-        line-height: 20px;
-    }
-    #section_university_5 .pix_builder_bg .container .sixteen .six .substyle input {
-        width: 300px;
-        height: 50px;
-        margin: 10px 0px;
-        border: 0px;
-        padding: 0px;
-        border-radius: 0px;
-    }
-    #countries      {
-        width: 300px;
-        height: 50px;
-        margin: 10px 0px;
-        border: 0px;
-        padding: 0px;
-    }
-    #submit_btn_6{
-        width: 300px;
-        height: 50px;
-        margin: 10px 0px;
-        border: 0px;
-        padding: 0px;
-        background: #7CC576;
-        border-radius: 5px;
-    }
+#navbar-collapse-02 {
+    width: 50%;
+    float: right;
+}
 
-    #section_university_5 > div > div > div > div.six.columns.omega > div > div.title-style > span > span {
-        line-height: 100px;
-        margin-right: 20%;
-        font-size: 44px;
-        margin-top: 64px;
-    }
+#navbar-collapse-02 > ul li {
+    list-style: none;
+    display: inline;
+    color: yellow;
+    margin-right: 20px;
+}
 
-    #section_university_5 > div > div > div > div.six.columns.omega > div > div.text-style > span > span {
-        line-height: 0px;
-        margin-right: 10%;
-        color: #7c7c7c;
-    }
-    #section_ecourse_7 .container .sixteen{
-        width: 1200px;
-        height: 50px;
-        background: #7c7c7c;
-        background: #adabab;
-    }
-    #section_ecourse_7 .container .sixteen  .seven {
-        width: 50%;
-        float: left;
-        margin: 10px 0px;
-    }
-    #section_ecourse_7 .container .sixteen  .nine .socbuttons {
-        width: 50%;
-        float: right;
+#navbar-collapse-02 > ul li a {
+    text-decoration: none;
+    color: white;
 
-    }
-    #section_ecourse_7 .container .sixteen  .nine .socbuttons span {
-        width: auto;
-        float: left;
-        margin: 5px 0px;
-    }
-    #section_ecourse_7 .container .sixteen  .nine .socbuttons  .soc_icons ul  {
-        width: fit-content;
-        float: right;
-        padding: 0px;
-        margin: 10px 55% 10px 0px;
+}
 
-    }
-    #section_ecourse_7 .container .sixteen  .nine .socbuttons  .soc_icons ul li {
-        display: inline-block;
-    }
+#section_pix_4 .has-video {
+    width: 1200px;
+    height: 675px;
+    position: relative;
+    text-align: center;
+}
 
+.bgvid {
+    width: 1200px;
+    height: 675px;
+    filter: brightness(50%);
+
+}
+
+#section_pix_4 .has-video .clearfix .container .context_style {
+    position: absolute;
+    display: inline-block;
+    top: 30%;
+    left: 27%;
+    color: white;
+    line-height: 80px;
+}
+
+#section_pix_4 > div > div.section_wrapper.clearfix > div > div > div.subtitle_style {
+    line-height: 20px;
+    width: 490px;
+}
+
+#email {
+    width: 300px;
+    height: 35px;
+    border-radius: 5px;
+    border: 0px;
+    padding: 0px;
+}
+
+#subscribe_btn_1 {
+    width: 150px;
+    height: 35px;
+    background: orange;
+    color: white;
+    font-weight: bold;
+    border: 0px;
+    border-radius: 5px;
+
+}
+
+#section_pix_4 > div > div.section_wrapper.clearfix > div > div > div.note_st {
+    line-height: 30px;
+    font-size: 12px;
+}
+
+#section_pix_4 > div > div.section_wrapper.clearfix > div > div > div.title_style > span > span {
+    color: white;
+    font-size: 35px;
+    font-weight: 800;
+}
+
+#section_pix_4 > div > div.section_wrapper.clearfix > div > div > div.title_style > span {
+    margin-bottom: 10px;
+}
+
+#hidden_pix_1 {
+    display: none;
+}
+
+#hidden_pix_6 {
+    display: none;
+}
+
+#section_university_5 .pix_builder_bg .container .sixteen {
+    overflow: auto;
+    margin-top: 20px;
+}
+
+#section_university_5 .pix_builder_bg .container .sixteen .ten {
+    width: 60%;
+    float: left;
+}
+
+#section_university_5 .pix_builder_bg .container .sixteen .six {
+    width: 40%;
+    float: right;
+}
+
+#section_university_5 .pix_builder_bg .container .sixteen .six .substyle {
+    width: 350px;
+    height: 520px;
+    background: lightgray;
+    text-align: center;
+    line-height: 20px;
+}
+
+#section_university_5 .pix_builder_bg .container .sixteen .six .substyle input {
+    width: 300px;
+    height: 50px;
+    margin: 10px 0px;
+    border: 0px;
+    padding: 0px;
+    border-radius: 0px;
+}
+
+#countries {
+    width: 300px;
+    height: 50px;
+    margin: 10px 0px;
+    border: 0px;
+    padding: 0px;
+}
+
+#submit_btn_6 {
+    width: 300px;
+    height: 50px;
+    margin: 10px 0px;
+    border: 0px;
+    padding: 0px;
+    background: #7CC576;
+    border-radius: 5px;
+}
+
+#section_university_5 > div > div > div > div.six.columns.omega > div > div.title-style > span > span {
+    line-height: 100px;
+    margin-right: 20%;
+    font-size: 44px;
+    margin-top: 64px;
+}
+
+#section_university_5 > div > div > div > div.six.columns.omega > div > div.text-style > span > span {
+    line-height: 0px;
+    margin-right: 10%;
+    color: #7c7c7c;
+}
+
+#section_ecourse_7 .container .sixteen {
+    width: 1200px;
+    height: 30px;
+    background: #7c7c7c;
+    background: #adabab;
+}
+
+#section_ecourse_7 .container .sixteen .seven {
+    width: 25%;
+    float: left;
+    margin: 10px 0px;
+    margin-left: 250px;
+    box-sizing: border-box;
+    font-size: 12px;
+}
+
+#section_ecourse_7 .container .sixteen .nine .socbuttons {
+    width: 40%;
+    float: right;
+
+}
+
+#section_ecourse_7 .container .sixteen .nine .socbuttons span {
+    width: auto;
+    float: left;
+    margin: 5px 0px;
+    font-size: 12px;
+}
+
+#section_ecourse_7 .container .sixteen .nine .socbuttons .soc_icons ul {
+    width: fit-content;
+    float: right;
+    padding: 0px;
+    margin: 10px 55% 10px 0px;
+    font-size: 12px;
+
+}
+
+#section_ecourse_7 .container .sixteen .nine .socbuttons .soc_icons ul li {
+    display: inline-block;
+}
+
+#section_university_5 > div > div > div > div.ten.columns.alpha > div {
+    margin-left: 32%;
+}
+
+#section_university_5 .pix_builder_bg .container .sixteen .ten .zone_left {
+    overflow: auto;
+}
+
+#section_university_5 .pix_builder_bg .container .sixteen .ten .zone_left .psingle_item {
+    margin: 75px 0px;
+}
+
+#section_university_5 .pix_builder_bg .container .sixteen .ten .zone_left .psingle_item .title_st {
+    font-size: 23px;
+    font-weight: normal;
+}
+
+#section_university_5 .pix_builder_bg .container .sixteen .ten .zone_left .psingle_item .subject_st {
+    font-size: 16px;
+    font-weight: normal;
+    margin: 10px;
+    color: #7c7c7c;
+}
+
+#section_university_5 .pix_builder_bg .container .sixteen .ten .zone_left .icon_st {
+    width: 30%;
+    float: left;
+}
